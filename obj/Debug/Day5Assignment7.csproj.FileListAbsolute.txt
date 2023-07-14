@@ -1,0 +1,8 @@
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\bin\Debug\Day5Assignment7.exe.config
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\bin\Debug\Day5Assignment7.exe
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\bin\Debug\Day5Assignment7.pdb
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\obj\Debug\Day5Assignment7.csproj.AssemblyReference.cache
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\obj\Debug\Day5Assignment7.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\obj\Debug\Day5Assignment7.csproj.CoreCompileInputs.cache
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\obj\Debug\Day5Assignment7.exe
+E:\Dotnet\Day5\Day5Assignment7\Day5Assignment7\obj\Debug\Day5Assignment7.pdb
